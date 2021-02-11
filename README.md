@@ -65,6 +65,13 @@ var sent = client.Send(new Notification()
  var notifications = await client.ListNoticationAsync();
 ```
 
+>
+> ### Outras linguagens
+>
+> [PHP, exemplo simples](https://github.com/Mrr66/php-notifique-me-whatsApp)
+> 
+> [Python, modulo para instalar via pip](https://github.com/Mrr66/Notifique-me-python)
+
 # Gostou do Notifique.me?
 Agora basta por a mão na massa e sair notificando seus clientes e sua equipe, há para você que é um DEV dedicado e simplismente de graça basta cadastrar como desenvolvedor.
 
