@@ -3,7 +3,7 @@
  
  > ` Install-Package Notifique-me -Version 1.0.3 `
 
- ### 1- Criando uma conexão com as credenciais obtida em https://cad-notifique-me.herokuapp.com/ neste exemplo o programador usa o secretKey e o clienteId
+ ### 1- Criando uma conexão com as credenciais obtida em https://notifica.integrate.com.br/ neste exemplo o programador usa o secretKey e o clienteId
 
 ```c#
 private Autorization client = new Autorization("Sua chave secreta", "Seu clienteID");
@@ -68,9 +68,9 @@ var sent = client.Send(new Notification()
 >
 > ### Outras linguagens
 >
-> [PHP, exemplo simples](https://github.com/Mrr66/php-notifique-me-whatsApp)
+> [PHP, exemplo simples](https://github.com/IntegrateGit/php-notifica-whatsApp)
 > 
-> [Python, modulo para instalar via pip](https://github.com/Mrr66/Notifique-me-python)
+> [Python, modulo para instalar via pip](https://github.com/IntegrateGit/Notifica-python)
 
 # Gostou do Notifique.me?
 Agora basta por a mão na massa e sair notificando seus clientes e sua equipe, há para você que é um DEV dedicado e simplismente de graça basta cadastrar como desenvolvedor.
@@ -80,9 +80,9 @@ Agora basta por a mão na massa e sair notificando seus clientes e sua equipe, h
 >
 > ### Crie sua conta hoje mesmo é completamente gratis 
 >
->* [Para mais informações acesse](https://cad-notifique-me.herokuapp.com/)
+>* [Para mais informações acesse](https://notifica.integrate.com.br/)
 >
->* [Criar uma conta Empresarial](https://cad-notifique-me.herokuapp.com/business)
+>* [Criar uma conta Empresarial](https://notifica.integrate.com.br/cadastro-de-empresa/)
 >
->* [Criar uma conta Desenvolvedor](https://cad-notifique-me.herokuapp.com/developer)
+>* [Criar uma conta Desenvolvedor](https://notifica.integrate.com.br/cadastro-de-desenvolvedor/)
 
